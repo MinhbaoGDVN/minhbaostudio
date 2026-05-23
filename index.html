@@ -4,39 +4,46 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MBS INC | Studio Game Việt Nam</title>
+    
+    <meta property="og:title" content="MBS INC | Studio Game Việt Nam">
+    <meta property="og:description" content="Studio phát triển game chuyên nghiệp và sáng tạo trò chơi.">
+    <meta property="og:image" content="https://i.postimg.cc/MTSGKPG6/mbslogotype8.png">
+    <meta property="og:url" content="https://minhbaostudio.vercel.app/">
+
     <style>
         :root { --green: #4CAF50; --dark: #121212; --bg: #ffffff; }
         body { font-family: 'Inter', sans-serif; margin: 0; line-height: 1.6; color: #333; }
+        
+        /* Navbar */
         nav { 
             position: fixed; top: 0; width: 100%; 
-            background: rgba(255,255,255,0.95); 
-            padding: 15px 5%;
+            background: rgba(255,255,255,0.98); 
+            padding: 10px 5%;
             display: flex; align-items: center; 
             border-bottom: 1px solid #eee; z-index: 1000;
-            box-sizing: border-box
+            box-sizing: border-box;
         }
-        .logo { width: 180px; height: auto; }
-        .nav-links { 
-            display: flex; 
-            margin-left: auto;
+        .logo { width: 110px; height: auto; flex-shrink: 0; }
+        .nav-links { display: flex; margin-left: auto; flex-wrap: wrap; justify-content: flex-end; }
+        .nav-links a { margin-left: 15px; text-decoration: none; color: #333; font-weight: 600; font-size: 0.95rem; white-space: nowrap; }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            nav { padding: 10px 3%; }
+            .nav-links { gap: 8px; }
+            .nav-links a { margin-left: 8px; font-size: 0.8rem; }
+            .section { flex-direction: column; text-align: center; padding: 60px 5%; }
+            .flex-reverse { flex-direction: column; }
         }
-        .nav-links a { 
-            margin-left: 20px;
-            text-decoration: none; color: #333; font-weight: 600;
-            white-space: nowrap
-        }
-        @media (max-width: 600px) {
-            .nav-links a { margin-left: 10px; font-size: 0.85rem; }
-        }
+
         .hero { padding: 180px 10% 80px; text-align: center; background: #f9f9f9; }
         .slogan { font-size: 3rem; color: var(--green); font-weight: 800; margin-bottom: 20px; }
         .section { padding: 80px 10%; display: flex; align-items: center; gap: 50px; }
-        .flex-reverse { flex-direction: row-reverse; }
         .content { flex: 1; }
         .image-box { flex: 1; height: 350px; background: #eee; border-radius: 12px; overflow: hidden; }
         .image-box img { width: 100%; height: 100%; object-fit: cover; }
         .card { border: 1px solid #eee; padding: 30px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.05); }
-        .btn { padding: 12px 25px; text-decoration: none; border-radius: 5px; margin-right: 10px; display: inline-block; font-weight: 600; }
+        .btn { padding: 12px 25px; text-decoration: none; border-radius: 5px; margin-right: 10px; display: inline-block; font-weight: 600; margin-bottom: 10px; }
         .btn-green { background: var(--green); color: white; }
         .btn-outline { border: 1px solid var(--green); color: var(--green); }
         input, textarea { width: 100%; padding: 12px; margin: 10px 0; border: 1px solid #ddd; border-radius: 5px; }
