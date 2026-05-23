@@ -1,0 +1,6 @@
+# Cho phép các con bot tìm kiếm truy cập toàn bộ trang web
+User-agent: *
+Allow: /
+
+# Khai báo vị trí sitemap để Google index nhanh hơn
+Sitemap: https://minhbaostudio.vercel.app/sitemap.txt
