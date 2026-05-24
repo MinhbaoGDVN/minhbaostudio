@@ -163,25 +163,28 @@
     </script>
     <script>
         const form = document.getElementById("contactForm");
-        const successMsg = document.getElementById("successMsg");
         const submitBtn = document.getElementById("submitBtn");
     
         form.addEventListener("submit", async (e) => {
-            e.preventDefault();
+            e.preventDefault(); // Ngăn hành vi tải lại trang mặc định
             submitBtn.disabled = true;
             submitBtn.innerText = "Đang gửi...";
     
-            const response = await fetch(e.target.action, {
-                method: form.method,
-                body: new FormData(form),
-                headers: { 'Accept': 'application/json' }
-            });
+            try {
+                const response = await fetch(e.target.action, {
+                    method: form.method,
+                    body: new FormData(form),
+                    headers: { 'Accept': 'application/json' }
+                });
     
-            if (response.ok) {
-                form.style.display = "none"; // Ẩn form đi
-                successMsg.style.display = "block"; // Hiện thông báo cảm ơn
-            } else {
-                alert("Có lỗi xảy ra, vui lòng thử lại!");
+                if (response.ok) {
+                    // Chuyển hướng sang trang Thank You của bạn
+                    window.location.href = "thankyou.html"; 
+                } else {
+                    throw new Error("Gửi thất bại");
+                }
+            } catch (error) {
+                alert("Đã có lỗi xảy ra! Vui lòng thử lại sau.");
                 submitBtn.disabled = false;
                 submitBtn.innerText = "Gửi tin nhắn";
             }
