@@ -28,7 +28,7 @@
         @media (min-width: 768px) {
             .project-grid {
                 display: grid !important;
-                grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)) !important;
+                grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)) !important;
                 justify-content: start !important;
                 gap: 30px !important;
             }
@@ -90,19 +90,19 @@
         </div>
     </section>
 
-    <section id="why" class="section flex-reverse reveal">
-        <div class="content">
-            <h2>Tại sao chọn chúng tôi?</h2>
-            <p>Chúng tôi có những trò chơi đơn giản nhưng đầy sáng tạo, quy trình phát triển minh bạch và luôn cam kết tối ưu hóa hiệu năng game cao nhất.</p>
-        </div>
-        <div class="image-box"><img src="https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800" alt="Lợi thế"></div>
-    </section>
-
-    <section id="about" class="section reveal">
-        <div class="image-box"><img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800" alt="Về chúng tôi"></div>
+    <section id="abo
         <div class="content">
             <h2>Về chúng tôi</h2>
             <p>Chúng tôi là những developer đam mê phát triển các trò chơi, luôn tạo ra những trải nghiệm hấp dẫn và thú vị.</p>
+        </div>
+        <div class="image-box"><img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800" alt="Về chúng tôi"></div>
+    </section>
+    
+    <section id="why" class="section flex-reverse reveal">
+        <div class="image-box"><img src="https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800" alt="Lợi thế"></div>
+        <div class="content">
+            <h2>Tại sao chọn chúng tôi?</h2>
+            <p>Chúng tôi có những trò chơi đơn giản nhưng đầy sáng tạo, quy trình phát triển minh bạch và luôn cam kết tối ưu hóa hiệu năng game cao nhất.</p>
         </div>
     </section>
 
@@ -114,7 +114,7 @@
                 <p>- Game đố vui trí tuệ phong cách Việt</p>
                 <p>- Đồ họa tối giản, hiệu năng cực cao</p>
                 <a href="https://mbquizvietnamese.vercel.app/" target="_blank" class="btn btn-green">Chơi ngay</a>
-                <a href="https://minhbaostudio.vercel.app/project/mbquizvietnamese/preview.html" class="btn btn-outline">Xem thử</a>
+                <a href="https://minhbaostudio.vercel.app/project/mbquizvietnamese/preview.html" class="btn btn-outline">Xem thêm</a>
                 <a href="https://github.com/MinhbaoGDVN/mbquizvietnamese" target="_blank" class="btn btn-outline">Mã nguồn</a>
             </div>
             <div class="card">
@@ -122,7 +122,7 @@
                 <p>- Công cụ đo thời gian chuyên dụng cho Speedrun</p>
                 <p>- Yêu cầu Win 10/11 và NET 4.8</p>
                 <a href="https://github.com/MinhbaoGDVN/SpeedRClock/releases/latest/download/SpeedRClock.exe" class="btn btn-green" download>Tải về</a>
-                <a href="https://minhbaostudio.vercel.app/project/speedrclock/preview.html" class="btn btn-outline">Xem thử</a>
+                <a href="https://minhbaostudio.vercel.app/project/speedrclock/preview.html" class="btn btn-outline">Xem thêm</a>
                 <a href="https://github.com/MinhbaoGDVN/SpeedRClock" class="btn btn-outline">Mã nguồn</a>
             </div>
         </div>
@@ -130,13 +130,12 @@
 
     <section id="contact" class="section reveal" style="display: block;">
         <h2>Liên hệ</h2>
-
         <p>Email : mbsvnofficial@gmail.com</p>
+        
         <form id="contactForm" action="https://formspree.io/f/xeedzaga" method="POST">
             <input type="text" name="name" placeholder="Nhập tên của bạn" required>
             <input type="email" name="email" placeholder="Nhập email của bạn" required>
             <textarea name="message" placeholder="Nhập nội dung tin nhắn" rows="4" required></textarea>
-            
             <button type="submit" id="submitBtn" class="btn btn-green">Gửi tin nhắn</button>
         </form>
     </section>
