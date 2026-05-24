@@ -6,7 +6,7 @@
 *Studio phát triển game chuyên nghiệp và sáng tạo trò chơi tại Việt Nam.*
 
 [![Website](https://img.shields.io/badge/Website-Live-green?style=for-the-badge&logo=vercel)](https://minhbaostudio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/MinhbaoGDVN)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/mbsvnofficial)
 
 </div>
 
