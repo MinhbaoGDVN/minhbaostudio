@@ -2,7 +2,7 @@
 
 <img src="https://i.postimg.cc/MTSGKPG6/mbslogotype8.png" width="200" alt="Minh Bao Studio Inc Logo">
 
-# Minh Bao Studio Inc
+# MBS INC
 *Studio phát triển game chuyên nghiệp và sáng tạo trò chơi tại Việt Nam.*
 
 [![Website](https://img.shields.io/badge/Website-Live-green?style=for-the-badge&logo=vercel)](https://minhbaostudio.vercel.app/)
@@ -13,7 +13,7 @@
 ---
 
 ## 🎮 Về chúng tôi
-**Minh Bao Studio Inc** là studio game nơi công nghệ và sự sáng tạo hòa quyện để tạo ra những trải nghiệm giải trí đẳng cấp. Chúng tôi cam kết mang đến những sản phẩm chất lượng, tối ưu hóa hiệu năng và mang đậm bản sắc riêng.
+**MBS INC** là studio game nơi công nghệ và sự sáng tạo hòa quyện để tạo ra những trải nghiệm giải trí đẳng cấp. Chúng tôi cam kết mang đến những sản phẩm chất lượng, tối ưu hóa hiệu năng và mang đậm bản sắc riêng.
 
 ## 🚀 Các dự án từ Minh Bao Studio Inc
 
@@ -23,7 +23,7 @@
 | **SpeedRClock** | Công cụ đo thời gian cho Speedrun | 🟢 Đã phát hành | [Tải về](https://github.com/MinhbaoGDVN/SpeedRClock) |
 
 ## 🛠 Tech Stack
-Công nghệ cốt lõi giúp **Minh Bao Studio Inc** vận hành các sản phẩm:
+Công nghệ cốt lõi giúp **MBS INCc** vận hành các sản phẩm:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,7 +37,7 @@ Công nghệ cốt lõi giúp **Minh Bao Studio Inc** vận hành các sản ph�
 ---
 
 ## 📧 Liên hệ
-Bạn có ý tưởng hay cần hợp tác với **Minh Bao Studio Inc**? Hãy liên hệ với chúng tôi:
+Bạn có ý tưởng hay cần hợp tác với **MBS INCc**? Hãy liên hệ với chúng tôi:
 - **E-Mail :** mbsvnofficial@gmail.com
 - **Website:** [minhbaostudio.vercel.app](https://minhbaostudio.vercel.app/)
 
