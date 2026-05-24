@@ -31,7 +31,6 @@ Công nghệ cốt lõi giúp **Minh Bao Studio Inc** vận hành các sản ph�
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
----
 ## 📊 Thống kê hoạt động
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=MinhbaoGDVN&theme=radical&background=000000)
 
