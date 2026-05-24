@@ -3,19 +3,25 @@
   <url>
     <loc>https://minhbaostudio.vercel.app/</loc>
     <lastmod>2026-05-24</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://minhbaostudio.vercel.app/thankyou.html</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
   </url>
   <url>
     <loc>https://minhbaostudio.vercel.app/project/mbquizvietnamese/preview.html</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://minhbaostudio.vercel.app/credit.txt</loc>
+    <loc>https://minhbaostudio.vercel.app/project/speedrclock/preview.html</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
 </urlset>
