@@ -32,6 +32,10 @@ Công nghệ cốt lõi giúp **Minh Bao Studio Inc** vận hành các sản ph�
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ---
+## 📊 Thống kê hoạt động
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=MinhbaoGDVN&theme=radical&background=000000)
+
+---
 
 ## 📧 Liên hệ
 Bạn có ý tưởng hay cần hợp tác với **Minh Bao Studio Inc**? Hãy liên hệ với chúng tôi:
