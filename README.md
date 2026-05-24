@@ -23,7 +23,7 @@
 | **SpeedRClock** | Công cụ đo thời gian cho Speedrun | 🟢 Đã phát hành | [Tải về](https://github.com/MinhbaoGDVN/SpeedRClock) |
 
 ## 🛠 Tech Stack
-Công nghệ cốt lõi giúp **MBS INCc** vận hành các sản phẩm:
+Công nghệ cốt lõi giúp **MBS INC** vận hành các sản phẩm:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,7 +37,7 @@ Công nghệ cốt lõi giúp **MBS INCc** vận hành các sản phẩm:
 ---
 
 ## 📧 Liên hệ
-Bạn có ý tưởng hay cần hợp tác với **MBS INCc**? Hãy liên hệ với chúng tôi:
+Bạn có ý tưởng hay cần hợp tác với **MBS INC**? Hãy liên hệ với chúng tôi:
 - **E-Mail :** mbsvnofficial@gmail.com
 - **Website:** [minhbaostudio.vercel.app](https://minhbaostudio.vercel.app/)
 
