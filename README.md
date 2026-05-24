@@ -3,7 +3,7 @@
 <img src="https://i.postimg.cc/MTSGKPG6/mbslogotype8.png" width="200" alt="Minh Bao Studio Inc Logo">
 
 # MBS INC
-*Studio phát triển game chuyên nghiệp và sáng tạo trò chơi tại Việt Nam.*
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1200&color=10A37F&center=true&vCenter=true&width=850&lines=Creating+Digital+Worlds;Building+Interactive+Experiences;Developing+Creative+Ideas;Powered+by+Creativity" alt="Typing SVG" />
 
 [![Website](https://img.shields.io/badge/Website-Live-green?style=for-the-badge&logo=vercel)](https://minhbaostudio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/mbsvnofficial)
