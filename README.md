@@ -49,5 +49,5 @@ Bạn có ý tưởng hay cần hợp tác với **Minh Bao Studio Inc**? Hãy l
       https://flagcdn.com/h60/vn.png 3x"
     height="20"
     alt="Vietnam">
-  <small>© 2026 MinhbaoGDVN and Minh Bao Studio Inc - All rights reserved.</small>
+  <small>© 2026 MinhbaoGDVN and MBS INC - All rights reserved.</small>
 </div>
