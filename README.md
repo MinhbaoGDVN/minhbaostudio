@@ -38,6 +38,7 @@ Công nghệ cốt lõi giúp **Minh Bao Studio Inc** vận hành các sản ph�
 
 ## 📧 Liên hệ
 Bạn có ý tưởng hay cần hợp tác với **Minh Bao Studio Inc**? Hãy liên hệ với chúng tôi:
+- **E-Mail :** mbsvnofficial@gmail.com
 - **Website:** [minhbaostudio.vercel.app](https://minhbaostudio.vercel.app/)
 
 ---
