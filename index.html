@@ -26,9 +26,9 @@
         .logo { width: 140px; height: auto; flex-shrink: 0; }
         .nav-links { display: flex; margin-left: auto; flex-wrap: wrap; justify-content: flex-end; }
         .nav-links a { margin-left: 15px; text-decoration: none; color: #333; font-weight: 600; font-size: 0.95rem; white-space: nowrap; }
-        @media (max-width: 768px) {
+        @media (min-width: 768px) {
             .project-grid {
-                grid-template-columns: 1fr;
+                grid-template-columns: repeat(2, 1fr);
             }
         }
         .hero { padding: 180px 10% 80px; text-align: center; background: #f9f9f9; }
@@ -49,12 +49,11 @@
         .reveal { opacity: 0; transform: translateY(30px); transition: 0.8s; }
         .reveal.active { opacity: 1; transform: translateY(0); }
         #projects {
-            display: block !important;
             padding: 80px 10%;
         }
         .project-grid {
             display: grid;
-            grid-template-columns: repeat(2, 1fr);
+            grid-template-columns: 1fr; 
             gap: 30px;
             margin-top: 40px;
         }
@@ -119,7 +118,8 @@
             </div>
             <div class="card">
                 <h3>SpeedRClock</h3>
-                <p>Công cụ đo thời gian chuyên dụng cho Speedrun. Yêu cầu .NET 4.8</p>
+                <p>- Công cụ đo thời gian chuyên dụng cho Speedrun</p>
+                <p>- Yêu cầu Win 10/11 và NET 4.8</p>
                 <a href="https://github.com/MinhbaoGDVN/SpeedRClock/releases/latest/download/SpeedRClock.exe" class="btn btn-green" download>Tải về</a>
                 <a href="https://minhbaostudio.vercel.app/project/speedrclock/preview.html" class="btn btn-outline">Xem thử</a>
                 <a href="https://github.com/MinhbaoGDVN/SpeedRClock" class="btn btn-outline">Mã nguồn</a>
