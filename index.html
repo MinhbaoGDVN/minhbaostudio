@@ -54,6 +54,16 @@
         .copyright { display: flex; align-items: center; justify-content: center; gap: 10px; opacity: 0.7; font-size: 0.8rem; }
         .reveal { opacity: 0; transform: translateY(30px); transition: 0.8s; }
         .reveal.active { opacity: 1; transform: translateY(0); }
+        .project-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-top: 30px;
+        }
+        .project-grid .card {
+            margin: 0;
+            height: 100%;
+        }
     </style>
 </head>
 <body>
@@ -99,21 +109,23 @@
     </section>
 
     <section id="projects" class="section reveal" style="display: block;">
-        <h2>Dự án</h2>
-        <div class="card">
-            <h3>Mb Quiz Vietnamese</h3>
-            <p>- Game đố vui trí tuệ phong cách Việt</p>
-            <p>- Đồ họa tối giản, hiệu năng cực cao</p>
-            <a href="https://mbquizvietnamese.vercel.app/" target="_blank" class="btn btn-green">Chơi ngay</a>
-            <a href="https://minhbaostudio.vercel.app/project/mbquizvietnamese/preview.html" class="btn btn-outline">Xem thử</a>
-            <a href="https://github.com/MinhbaoGDVN/mbquizvietnamese" target="_blank" class="btn btn-outline">Mã nguồn</a>
-        </div>
-        <div class="card">
-            <h3>SpeedRClock</h3>
-            <p>Công cụ đo thời gian chuyên dụng cho Speedrun. Yêu cầu .NET 4.8</p>
-            <a href="https://github.com/MinhbaoGDVN/SpeedRClock/releases/latest/download/SpeedRClock.exe" class="btn btn-green" download>Tải về</a>
-            <a href="https://minhbaostudio.vercel.app/project/speedrclock/preview.html" class="btn btn-outline">Xem thử</a>
-            <a href="https://github.com/MinhbaoGDVN/SpeedRClock" class="btn btn-outline">Mã nguồn</a>
+        <h2 style="text-align: center;">Dự án</h2>
+        <div class="project-grid">
+            <div class="card">
+                <h3>Mb Quiz Vietnamese</h3>
+                <p>- Game đố vui trí tuệ phong cách Việt</p>
+                <p>- Đồ họa tối giản, hiệu năng cực cao</p>
+                <a href="https://mbquizvietnamese.vercel.app/" target="_blank" class="btn btn-green">Chơi ngay</a>
+                <a href="https://minhbaostudio.vercel.app/project/mbquizvietnamese/preview.html" class="btn btn-outline">Xem thử</a>
+                <a href="https://github.com/MinhbaoGDVN/mbquizvietnamese" target="_blank" class="btn btn-outline">Mã nguồn</a>
+            </div>
+            <div class="card">
+                <h3>SpeedRClock</h3>
+                <p>Công cụ đo thời gian chuyên dụng cho Speedrun. Yêu cầu .NET 4.8</p>
+                <a href="https://github.com/MinhbaoGDVN/SpeedRClock/releases/latest/download/SpeedRClock.exe" class="btn btn-green" download>Tải về</a>
+                <a href="https://minhbaostudio.vercel.app/project/speedrclock/preview.html" class="btn btn-outline">Xem thử</a>
+                <a href="https://github.com/MinhbaoGDVN/SpeedRClock" class="btn btn-outline">Mã nguồn</a>
+            </div>
         </div>
     </section>
 
