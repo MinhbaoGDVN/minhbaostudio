@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Khai báo vị trí sitemap để Google index nhanh hơn
-Sitemap: https://minhbaostudio.vercel.app/sitemap.txt
+Sitemap: https://minhbaostudio.vercel.app/sitemap.xml
