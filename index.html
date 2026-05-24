@@ -169,7 +169,7 @@
         const submitBtn = document.getElementById("submitBtn");
     
         form.addEventListener("submit", async (e) => {
-            e.preventDefault(); // Ngăn hành vi tải lại trang mặc định
+            e.preventDefault();
             submitBtn.disabled = true;
             submitBtn.innerText = "Đang gửi...";
     
@@ -181,7 +181,6 @@
                 });
     
                 if (response.ok) {
-                    // Chuyển hướng sang trang Thank You của bạn
                     window.location.href = "thankyou.html"; 
                 } else {
                     throw new Error("Gửi thất bại");
