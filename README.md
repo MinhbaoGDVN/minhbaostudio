@@ -41,7 +41,7 @@ Code :
 AI :
 
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=https://unpkg.com/simple-icons@5.0.0/icons/openai.svg==&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge)
 
 ## 📊 Thống kê hoạt động
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=MinhbaoGDVN&theme=radical&background=000000)
