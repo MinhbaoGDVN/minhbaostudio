@@ -120,13 +120,19 @@
 
     <section id="contact" class="section reveal" style="display: block;">
         <h2>Liên hệ</h2>
-        <form action="https://formspree.io/f/xeedzaga" method="POST">
+        <form id="contactForm" action="https://formspree.io/f/xeedzaga" method="POST">
             <input type="text" name="name" placeholder="Nhập tên của bạn" required>
             <input type="email" name="email" placeholder="Nhập email của bạn" required>
             <textarea name="message" placeholder="Nhập nội dung tin nhắn" rows="4" required></textarea>
-                
-            <button type="submit" class="btn btn-green">Gửi tin nhắn</button>
+            
+            <button type="submit" id="submitBtn" class="btn btn-green">Gửi tin nhắn</button>
         </form>
+        
+        <div id="successMsg" style="display: none; padding: 20px; background: #e8f5e9; color: #2e7d32; border-radius: 8px; margin-top: 20px; text-align: center;">
+            <h3>Đã gửi thành công!</h3>
+            <p>Cảm ơn bạn đã liên hệ với MBS INC. Chúng tôi sẽ phản hồi sớm nhất có thể.</p>
+            <button onclick="location.reload()" class="btn btn-outline">Gửi tin nhắn khác</button>
+        </div>
     </section>
 
     <footer>
@@ -154,6 +160,32 @@
         }
         window.addEventListener("scroll", reveal);
         reveal();
+    </script>
+    <script>
+        const form = document.getElementById("contactForm");
+        const successMsg = document.getElementById("successMsg");
+        const submitBtn = document.getElementById("submitBtn");
+    
+        form.addEventListener("submit", async (e) => {
+            e.preventDefault();
+            submitBtn.disabled = true;
+            submitBtn.innerText = "Đang gửi...";
+    
+            const response = await fetch(e.target.action, {
+                method: form.method,
+                body: new FormData(form),
+                headers: { 'Accept': 'application/json' }
+            });
+    
+            if (response.ok) {
+                form.style.display = "none"; // Ẩn form đi
+                successMsg.style.display = "block"; // Hiện thông báo cảm ơn
+            } else {
+                alert("Có lỗi xảy ra, vui lòng thử lại!");
+                submitBtn.disabled = false;
+                submitBtn.innerText = "Gửi tin nhắn";
+            }
+        });
     </script>
 </body>
 </html>
