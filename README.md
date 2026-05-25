@@ -3,7 +3,7 @@
 <img src="https://i.postimg.cc/MTSGKPG6/mbslogotype8.png" width="200" alt="Minh Bao Studio Inc Logo">
 
 # MBS INC
-<img src="https://readme-typing-svg.herokuapp.com?&font=Inter&size=20&pause=100&color=4CAF50&center=true&vCenter=true&width=900&lines=Sáng+tạo+thế+giới+kỹ+thuật+số;Xây+dựng+trải+nghiệm+giải+trí;Phát+triển+game+bằng+đam+mê;Biến+ý+tưởng+thành+trò+chơi;Nơi+công+nghệ+gặp+gỡ+nghệ+thuật;Tạo+ra+một+thế+giới+kỹ+thuật+số+tuyệt+vời;Xây+dựng+trải+nghiệm+thú+vị;Hoạt+động+bằng+sự+sáng+tạo;Sản+xuất+tại+Việt+Nam+với+niềm+đam+mê;Tạo+ra+trải+nghiệm+cho+tất+cả+mọi+người" alt="Typing Animation">
+<img src="https://readme-typing-svg.herokuapp.com?&font=Inter&size=20&pause=100&color=FFFFFF&center=true&vCenter=true&width=900&lines=Sáng+tạo+thế+giới+kỹ+thuật+số;Xây+dựng+trải+nghiệm+giải+trí;Phát+triển+game+bằng+đam+mê;Biến+ý+tưởng+thành+trò+chơi;Nơi+công+nghệ+gặp+gỡ+nghệ+thuật;Tạo+ra+một+thế+giới+kỹ+thuật+số+tuyệt+vời;Xây+dựng+trải+nghiệm+thú+vị;Hoạt+động+bằng+sự+sáng+tạo;Sản+xuất+tại+Việt+Nam+với+niềm+đam+mê;Tạo+ra+trải+nghiệm+cho+tất+cả+mọi+người" alt="Typing Animation">
 
 [![Website](https://img.shields.io/badge/Website-Live-green?style=for-the-badge&logo=vercel)](https://minhbaostudio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/mbsvnofficial)
@@ -23,25 +23,22 @@
 | **SpeedRClock** | Công cụ đo thời gian cho Speedrun | 🟢 Đã phát hành | [Tải về](https://github.com/MinhbaoGDVN/SpeedRClock) |
 
 ## 🛠 Tech Stack
-Công nghệ cốt lõi giúp **MBS INC** vận hành các sản phẩm:
-
-Code :
+Những ngôn ngữ và nền tảng chúng tôi sử dụng và hỗ trợ :
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
- Deployment :
-
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
-
-AI :
-
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Gotdot](https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=ffffff&style=for-the-badge)
 
 ## 📊 Thống kê hoạt động
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=MinhbaoGDVN&theme=radical&background=000000)
