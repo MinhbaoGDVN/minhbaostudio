@@ -38,7 +38,7 @@ Những ngôn ngữ và nền tảng chúng tôi sử dụng và hỗ trợ :
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Gotdot](https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=ffffff&style=for-the-badge)
+![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=ffffff&style=for-the-badge)
 
 ## 📊 Thống kê hoạt động
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=MinhbaoGDVN&theme=radical&background=000000)
