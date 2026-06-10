@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.postimg.cc/MTSGKPG6/mbslogotype8.png" width="200" alt="Minh Bao Studio Inc Logo">
+<img src="https://minhbaostudio.vercel.app/mbslogotype8.png" width="200" alt="Minh Bao Studio Inc Logo">
 
 # MBS INC
 <img src="https://readme-typing-svg.herokuapp.com?&font=Inter&size=20&pause=100&color=FFFFFF&center=true&vCenter=true&width=900&lines=Sáng+tạo+thế+giới+kỹ+thuật+số;Xây+dựng+trải+nghiệm+giải+trí;Phát+triển+game+bằng+đam+mê;Biến+ý+tưởng+thành+trò+chơi;Nơi+công+nghệ+gặp+gỡ+nghệ+thuật;Tạo+ra+một+thế+giới+kỹ+thuật+số+tuyệt+vời;Xây+dựng+trải+nghiệm+thú+vị;Hoạt+động+bằng+sự+sáng+tạo;Sản+xuất+tại+Việt+Nam+với+niềm+đam+mê;Tạo+ra+trải+nghiệm+cho+tất+cả+mọi+người" alt="Typing Animation">
